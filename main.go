@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/akhlexe/go-fundamentals/variables"
+	arreglosslice "github.com/akhlexe/go-fundamentals/arreglos_slice"
 )
 
 func main() {
-	variables.MuestroEnteros()
+	arreglosslice.MuestroSlice()
 }
